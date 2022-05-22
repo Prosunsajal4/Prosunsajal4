@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Prosun Mukherjee
 - 👀 I’m interested in You
 - 🌱 I’m currently learning You
-- 💞️ I’m looking to collaborate on You 🥱
+- 💞️ I’m looking to collaborate with You 🥱
 - 📫 How to reach me (You know all)
 
 
