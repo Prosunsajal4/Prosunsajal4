@@ -59,7 +59,7 @@ I build tools to **track productivity**, **support education**, and **simplify l
 ## 📫 Connect With Me
 
 - 📬 Email: [prosunsajal123@gmail.com](mailto:prosunsajal123@gmail.com)
-- 🌐 Portfolio: [KU ECE Helper](http://itsprosun.me)
+- 🌐 Portfolio: [Prosun](http://itsprosun.me)
 - 🧠 Want to collaborate on study tools or learning platforms? Ping me!
 
 ---
