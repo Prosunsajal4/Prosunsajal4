@@ -6,7 +6,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ProsunMukherjee&label=Profile%20Views&color=0e75b6&style=flat)
 
-[![Portfolio](https://img.shields.io/badge/🎯_KU_ECE_Helper-Building_for_Students-0f172a?style=for-the-badge)](http://itsprosun.me/)
+[![Portfolio](https://img.shields.io/badge/🎯_Portfolio-0f172a?style=for-the-badge)](http://itsprosun.me/)
 [![Email](https://img.shields.io/badge/📫_Email-me-orange?style=for-the-badge)](mailto:prosunsajal123@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/ProsunMukherjee?label=Follow&style=social)](https://github.com/Prosunsajal4)
 
