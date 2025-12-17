@@ -15,7 +15,7 @@
 [![GitHub](https://img.shields.io/github/followers/Prosunsajal4?label=Follow&style=social)](https://github.com/Prosunsajal4)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sajalprosun)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/prosun_mukherjee_sajal)
-[![Linkedin](https://img.shields.io/badge/Linkedin-E4405F?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/prosun-mukherjee-sajal)
+[![LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/prosun-mukherjee-sajal/)
 </div>
 
 ---
