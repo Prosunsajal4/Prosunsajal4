@@ -93,9 +93,9 @@ I like learning by **building real, usable things**—especially tools related t
 </div>
 
 ---
-## 🏆 GitHub Achievements
+## 📈 GitHub Activity Graph
 
-<img src="https://github-profile-trophy.vercel.app/?username=Prosunsajal4&theme=flat&no-bg=true&no-frame=true" />
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prosunsajal4&theme=tokyo-night&hide_border=true)
 
 ---
 
