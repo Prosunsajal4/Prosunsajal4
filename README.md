@@ -2,7 +2,11 @@
 
 # 👋 Hey, I'm Prosun Mukherjee
 
-**🎓 ECE Student | 🧠 Tech Explorer | 🛠️ Productivity & Learning Tool Developer**
+**🎓 ECE Student | ⚛️ React-focused Web Developer | 🧠 Tech Explorer**
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=React+Focused+Web+Developer;ECE+Student+at+Khulna+University;Learning+by+Building;Consistency+Over+Hype" />
+</p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ProsunMukherjee&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -16,31 +20,44 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Prosun Mukherjee**, an enthusiastic learner from **Khulna University**, studying **Electronics and Communication Engineering**.  
-I build tools to **track productivity**, **support education**, and **simplify learning** — mixing my passion for engineering with real-world impact.
+I'm **Prosun Mukherjee**, an undergraduate student at **Khulna University**, studying **Electronics and Communication Engineering (ECE)**.  
+My current main focus is **Web Development using React**, along with strengthening my **JavaScript fundamentals** and problem-solving skills.
 
-- 🔭 Currently working on: `KU ECE Helper`, `OnTrack Chrome Extension`
-- 💖 Also made a personal CV site and portfolio
-- 🌱 Learning: `AI basics`, `Web Tech`, `C`,`Web Dev`, `Signal Processing`, and `Digital Logic`
+I like learning by **building real, usable things**—especially tools related to **productivity, tracking, and learning support**.
+
+- 🔭 Focus: **React-based Web Development**
+- 🌱 Learning: `React`, `Advanced JavaScript`, `Web APIs`, `AI basics`
+- 💻 Background: `C`, `ECE core subjects`
 - ⚡ Fun fact: I cry when I am sad 😄
 
 ---
 
 ## 🚀 Projects
 
-| Project Name | Description | Tech Stack | Live Demo |
-|--------------|-------------|------------|-----------|
-| [KU ECE Helper](http://itsprosun.me/KU-ECE-HELPER/) | A full academic helper site for ECE students (1-1 to 4-2) | HTML, CSS, JS | ✅ |
-| AI Tools (WIP) | Experiments with GPT, automation & ECE topics | Python, GPT API | 🔬 Exploring |
+| Project Name | Description | Tech Stack | Status |
+|--------------|-------------|------------|--------|
+| **React Web Projects** | Learning-focused React apps (components, hooks, state, UI) | React, JS, HTML, CSS | 🚧 Learning |
+| **OnTrack (Chrome Extension)** | Website activity & productivity tracker | JavaScript, Chrome APIs, Bootstrap | 🛠️ Maintained |
+| **Web Activity Tracker** | Multi-tab usage tracking with visual reports | JavaScript, Chart.js | 🔬 Prototype |
+
+---
+
+## ⚙️ Web Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,firebase,vercel,git,github&perline=6" />
+
+</div>
 
 ---
 
 ## 🧰 Skills & Tools
 
-- **Languages**: C, C++, Java, JavaScript, MATLAB, Python 
-- **Web Development**: HTML, JavaScript, CSS, Bootstrap, Chart.js
-- **Tech Tools**: Git, Chrome Extension APIs, Firebase, Vercel, Azure
-- **ECE Knowledge**: Analog/Digital Comm, Signal Processing, VLSI basics
+- **Programming**: C, JavaScript, Python (basic), MATLAB  
+- **Web**: React, HTML, CSS, JavaScript, Bootstrap, Chart.js  
+- **Platforms**: Git, GitHub, Chrome Extension APIs, Firebase, Vercel  
+- **ECE Knowledge**: Digital Logic, Analog Communication, Signal Processing, Networking basics  
 
 ---
 
@@ -56,17 +73,48 @@ I build tools to **track productivity**, **support education**, and **simplify l
 
 ---
 
+## 📈 Activity Summary
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prosunsajal4&theme=tokyonight" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prosunsajal4&theme=tokyonight&utcOffset=6" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/Prosunsajal4/Prosunsajal4/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Prosunsajal4&theme=tokyonight&no-frame=true&row=1&column=6" />
+
+</div>
+
+---
+
 ## 📫 Connect With Me
 
 - 📬 Email: [prosunsajal123@gmail.com](mailto:prosunsajal123@gmail.com)
 - 🌐 Portfolio: [Prosun](http://itsprosun.me)
-- 🧠 Want to collaborate on study tools or learning platforms? Ping me!
+- 🧠 Interested in **React**, **Web Dev**, or **learning-focused tools**
 
 ---
 
 <div align="center">
 
-**“Learning by building. Helping by sharing.”**  
+**“Learning by building. Improving with consistency.”**  
 Made with ❤️ by **Prosun Mukherjee**
 
 </div>
