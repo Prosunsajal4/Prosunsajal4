@@ -103,9 +103,7 @@ I like learning by **building real, usable things**—especially tools related t
 </div>
 
 ---
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/Prosunsajal4/Prosunsajal4/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
 
