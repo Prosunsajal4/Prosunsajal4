@@ -96,7 +96,7 @@ I like learning by **building real, usable things**—especially tools related t
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prosunsajal4&theme=darkhub&no-frame=true&row=1&column=6)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Prosunsajal4&theme=algolia)
 
 
 ---
