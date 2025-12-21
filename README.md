@@ -29,7 +29,7 @@ I like learning by **building real, usable things**—especially tools related t
 
 - 🔭 Focus: **React-based Web Development**
 - 🌱 Learning: `React`, `Advanced JavaScript`, `Web APIs`, `AI basics`
-- 💻 Background: `C`, `ECE core subjects`
+- 💻 Background: `ECE`
 - ⚡ Fun fact: I cry when I am sad 😄
 
 ---
@@ -56,7 +56,7 @@ I like learning by **building real, usable things**—especially tools related t
 
 ## 🧰 Skills & Tools
 
-- **Programming**: C, JavaScript, Python (basic), MATLAB  
+- **Programming**: C, Java, C++, JavaScript, Python, MATLAB  
 - **Web**: React, HTML, CSS, JavaScript, Bootstrap, Chart.js  
 - **Platforms**: Git, GitHub, Chrome Extension APIs, Firebase, Vercel  
 - **ECE Knowledge**: Digital Logic, Analog Communication, Signal Processing, Networking basics  
