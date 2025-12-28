@@ -63,15 +63,17 @@ I like learning by **building real, usable things**—especially tools related t
 
 ---
 
+
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prosunsajal4&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prosunsajal4&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prosunsajal4&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
-</div>
+![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prosunsajal4&theme=tokyonight)
+
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prosunsajal4&theme=tokyonight)
+
+
+
 
 ---
 
