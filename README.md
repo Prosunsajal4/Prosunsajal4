@@ -86,7 +86,7 @@ I like learning by **building real, usable things**—especially tools related t
 
 <div align="center">
 
- <img src="https://streak-stats.demolab.com?user=Prosunsajal4&theme=github-dark-dimmed" alt="GitHub Streak" height="200"/>
+ <img src="https://streak-stats.demolab.com?user=Prosunsajal4&theme=shadow-red" alt="GitHub Streak" height="200"/>
  <br>
 
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prosunsajal4&theme=tokyonight)
