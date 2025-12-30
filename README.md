@@ -62,6 +62,19 @@ I like learning by **building real, usable things**—especially tools related t
 
 ## 🧰 Skills & Tools
 
+
+## Skill
+
+
+| [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Frontend)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Backend)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Libraries)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Software+Tools)](https://git.io/typing-svg) | 
+| ----- | ---- | ---- | ---- | ---- |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" title="Java"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" title="HTML, CSS"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow" title="ML"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a></div> |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" title="Python"/></a></div>|<div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,javascript" title="React, js"/></a></div>|<div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=scikitlearn" title="ML"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda" title="anaconda"/></a></div> |
+| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" title="c"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind"/></a></div> |  | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium" title="selenium"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite" title="vite"/></a></div> | 
+ 
+
+
+
 - **Programming**: C, Java, C++, JavaScript, Python, MATLAB  
 - **Web**: React, HTML, CSS, JavaScript, Bootstrap, Chart.js  
 - **Platforms**: Git, GitHub, Chrome Extension APIs, Firebase, Vercel  
@@ -70,8 +83,7 @@ I like learning by **building real, usable things**—especially tools related t
 ---
 
 
-## 📊 GitHub Stats
-
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 
 ![Repos](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prosunsajal4&theme=tokyonight)
