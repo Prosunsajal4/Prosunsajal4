@@ -61,7 +61,7 @@ I like learning by **building real, usable things**—especially tools related t
 ---
 
 ## 🧰 Skills & Tools
-
+<div align="center">
 
 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Frontend)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Backend)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Libraries)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Software+Tools)](https://git.io/typing-svg) | 
 | ----- | ---- | ---- | ---- | ---- |
@@ -69,7 +69,7 @@ I like learning by **building real, usable things**—especially tools related t
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" title="Python"/></a></div>|<div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,javascript" title="React, js"/></a></div>|<div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=scikitlearn" title="ML"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=anaconda" title="anaconda"/></a></div> |
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c" title="c"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind"/></a></div> |  | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=selenium" title="selenium"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vite" title="vite"/></a></div> | 
  
-
+</div>
 
 
 - **Programming**: C, Java, C++, JavaScript, Python, MATLAB  
