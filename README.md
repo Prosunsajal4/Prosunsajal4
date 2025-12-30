@@ -31,7 +31,6 @@
 -  Enthusiastic about web development, machine learning, problem-solving, and innovation.
 
 My current main focus is **Web Development using React**, along with strengthening my **JavaScript fundamentals** and problem-solving skills.
-
 I like learning by **building real, usable things**—especially tools related to **productivity, tracking, and learning support**.
 
 - 🔭 Focus: **React-based Web Development**
