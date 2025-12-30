@@ -20,9 +20,16 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 👨🏻‍💻 About Me
+-  I am a final year ECE student.
+-  Studying in Khulna University.
+-  Passionate about building scalable applications and intelligent systems.
+-  I have worked on projects involving Full-Stack Web Development.
+-  Developed projects in Artificial Intelligence and Machine Learning.
+-  Currently exploring Next.js.
+-  Exploring new technologies and ideas with zeal to learn more.
+-  Enthusiastic about web development, machine learning, problem-solving, and innovation.
 
-I'm **Prosun Mukherjee**, an undergraduate student at **Khulna University**, studying **Electronics and Communication Engineering (ECE)**.  
 My current main focus is **Web Development using React**, along with strengthening my **JavaScript fundamentals** and problem-solving skills.
 
 I like learning by **building real, usable things**—especially tools related to **productivity, tracking, and learning support**.
