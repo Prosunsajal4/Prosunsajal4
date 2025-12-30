@@ -63,9 +63,6 @@ I like learning by **building real, usable things**—especially tools related t
 ## 🧰 Skills & Tools
 
 
-## Skill
-
-
 | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Languages)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Frontend)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Backend)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Libraries)](https://git.io/typing-svg) | [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&color=00FF2B&center=true&vCenter=true&repeat=false&random=false&width=150&lines=Software+Tools)](https://git.io/typing-svg) | 
 | ----- | ---- | ---- | ---- | ---- |
 | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=java" title="Java"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css" title="HTML, CSS"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/></a></div>| <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow" title="ML"/></a></div> | <div align="center"><a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></a></div> |
