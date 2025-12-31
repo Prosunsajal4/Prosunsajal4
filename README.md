@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prosunsajal4/Prosunsajal4/github-banner.png" alt="GitHub Banner" />
+  <img src="./github-banner.png" alt="GitHub Banner" />
 </p>
 
 <p align="center">
