@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hey, I'm Prosun Mukherjee
-
-**🎓 ECE Student | ⚛️ React-focused Web Developer | 🧠 Tech Explorer**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prosunsajal4/Prosunsajal4/github-banner.png" alt="GitHub Banner" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=React+Focused+Web+Developer;ECE+Student+at+Khulna+University;Learning+by+Building;Consistency+Over+Hype" />
