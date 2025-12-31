@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./github-banner.png" alt="GitHub Banner" />
+  <img src="./github-banner1.png" alt="GitHub Banner" />
 </p>
 
 <p align="center">
