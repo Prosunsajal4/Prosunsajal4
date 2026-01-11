@@ -79,6 +79,18 @@ I like learning by **building real, usable things**—especially tools related t
 
 ---
 
+### Design & Graphics:
+<a href="https://www.figma.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=figma" />
+</a>
+<a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ai" />
+</a>
+<a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+  <img src="https://skillicons.dev/icons?i=ps" />
+</a>
+
+
 
 
 
