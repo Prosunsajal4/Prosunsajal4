@@ -79,7 +79,9 @@ I like learning by **building real, usable things**—especially tools related t
 
 ---
 
-### Design & Graphics:
+### 🔭 Design & Graphics:
+<div align='center'>
+  
 <a href="https://www.figma.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=figma" />
 </a>
@@ -90,6 +92,7 @@ I like learning by **building real, usable things**—especially tools related t
   <img src="https://skillicons.dev/icons?i=ps" />
 </a>
 
+</div>
 
 
 
